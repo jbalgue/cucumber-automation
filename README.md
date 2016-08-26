@@ -1,5 +1,9 @@
-# Automation Using Cucumber and Java
+# Browser Automation Using Cucumber, Selenium, Java, and JUnit
 
+
+### Tutorials
+Cucumber: https://cucumber.io/docs/reference/browser-automation
+Selenium: http://www.seleniumhq.org/
 
 Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace
 
