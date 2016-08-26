@@ -6,7 +6,7 @@
 * Selenium: http://www.seleniumhq.org/
 
 
-Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace. Import to Eclipse.
+Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace. Import project into Eclipse.
 
 ### Prerequisites
 
