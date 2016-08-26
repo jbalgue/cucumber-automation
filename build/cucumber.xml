@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.490924">
+<testcase classname="Test Google" name="Able to access Google" time="8.490924">
+<system-out><![CDATA[Given I access Google site, {serverUrl}.....................................passed
+Then I should be navigated to Google site...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
