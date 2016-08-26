@@ -16,6 +16,7 @@ Simple template project for starting automated testings with different browsers.
 * Download `Eclipse` and run `git clone git@github.com:jbalgue/cucumber-automation.git` to the Eclipse workspace on the terminal. Import project into Eclipse.
 * Go to `cucumber-automation` directory on the Eclipse workspace and run `./gradlew eclipse`. This will fix the classpath.
 * Using the [Cucumber Plugin](https://github.com/samueltbrown/gradle-cucumber-plugin)
+* Create a directory named `project-automation-conf` same hierarchy as the `cucumber-automation`. Then copy the `testdata.properties` from config directory to the `project-automation-conf`.
 
 ### Essential plugins for automation in Eclipse
 
