@@ -1,6 +1,8 @@
 # Browser Automation Using Cucumber, Selenium, Java, and JUnit
 
 
+Simple template project for starting automated testing with different browsers.
+
 ### Tutorials
 * Cucumber: https://cucumber.io/docs/reference/browser-automation
 * Selenium: http://www.seleniumhq.org/
