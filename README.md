@@ -1,5 +1,12 @@
 # Automation Using Cucumber and Java
 
+
+Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace
+
+### Prerequisites
+
+* Java Development Kit (JDK) SE8
+
 ### Essential plugins for automation in Eclipse
 
 Copy link and install plugin in Eclipse: (Help > Install New Software...)
