@@ -1,18 +1,21 @@
 # Browser Automation Using Cucumber, Selenium, Java, and JUnit
 
 
-Simple template project for starting automated testing with different browsers.
+Simple template project for starting automated testings with different browsers.
 
 ### Tutorials
-* Cucumber: https://cucumber.io/docs/reference/browser-automation
-* Selenium: http://www.seleniumhq.org/
+* [Cucumber](https://cucumber.io/docs/reference/browser-automation)
+* [Selenium](http://www.seleniumhq.org/)
 
-
-Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace. Import project into Eclipse.
 
 ### Prerequisites
 
 * Java Development Kit (JDK) SE8
+
+### How to Install
+* Download `Eclipse` and run `git clone git@github.com:jbalgue/cucumber-automation.git` to the Eclipse workspace on the terminal. Import project into Eclipse.
+* Go to `cucumber-automation` directory on the Eclipse workspace and run `./gradlew eclipse`. This will fix the classpath.
+* Using the [Cucumber Plugin](https://github.com/samueltbrown/gradle-cucumber-plugin)
 
 ### Essential plugins for automation in Eclipse
 
