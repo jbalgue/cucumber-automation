@@ -2,12 +2,11 @@
 
 
 ### Tutorials
-Cucumber: https://cucumber.io/docs/reference/browser-automation
+* Cucumber: https://cucumber.io/docs/reference/browser-automation
+* Selenium: http://www.seleniumhq.org/
 
-Selenium: http://www.seleniumhq.org/
 
-
-Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace
+Download `Eclipse` and clone git project `git@github.com:jbalgue/cucumber-automation.git` to Eclipse workspace. Import to Eclipse.
 
 ### Prerequisites
 
